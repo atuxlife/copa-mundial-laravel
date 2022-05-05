@@ -3,12 +3,12 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-use App\Models\Equipo;
-use App\Imports\EquiposImport;
+use App\Models\Jugador;
+use App\Imports\JugadoresImport;
 use Maatwebsite\Excel\Facades\Excel;
 use Exception;
 
-class EquipoController extends Controller
+class JugadorController extends Controller
 {
     /**
      * Display a listing of the resource.
@@ -17,8 +17,8 @@ class EquipoController extends Controller
      */
     public function index()
     {
-        $equipo = Equipo::all();
-        return $equipo;
+        $jugador = Jugador::all();
+        return $jugador;
     }
 
     /**
@@ -39,12 +39,17 @@ class EquipoController extends Controller
      */
     public function store(Request $request)
     {
-        $equipo = new Equipo();
-        $equipo->nombre = $request->nombre;
-        $equipo->bandera = $request->bandera;
+        $jugador = new Jugador();
+        $jugador->equipo_id = $request->equipo_id;
+        $jugador->nombres = $request->nombres;
+        $jugador->nacionalidad = $request->nacionalidad;
+        $jugador->edad = $request->edad;
+        $jugador->posicion = $request->posicion;
+        $jugador->nro_camiseta = $request->nro_camiseta;
+        $jugador->foto = $request->foto;
 
-        $equipo->save();
-        return $equipo;
+        $jugador->save();
+        return $jugador;
     }
 
     /**
@@ -55,8 +60,8 @@ class EquipoController extends Controller
      */
     public function show(Request $request)
     {
-        $equipo = Equipo::find($request->id);
-        return $equipo;
+        $jugador = Jugador::find($request->id);
+        return $jugador;
     }
 
     /**
@@ -79,13 +84,17 @@ class EquipoController extends Controller
      */
     public function update(Request $request)
     {
-        $equipo = Equipo::findOrFail($request->id);
-        $equipo->nombre = $request->nombre;
-        $equipo->bandera = $request->bandera;
+        $jugador = Jugador::findOrFail($request->id);
+        $jugador->nombres = $request->nombres;
+        $jugador->nacionalidad = $request->nacionalidad;
+        $jugador->edad = $request->edad;
+        $jugador->posicion = $request->posicion;
+        $jugador->nro_camiseta = $request->nro_camiseta;
+        $jugador->foto = $request->foto;
 
-        $equipo->save();
+        $jugador->save();
 
-        return $equipo;
+        return $jugador;
     }
 
     /**
@@ -96,14 +105,14 @@ class EquipoController extends Controller
      */
     public function destroy(Request $request)
     {
-        $equipo = Equipo::destroy($request->id);
-        return $equipo;
+        $jugador = Jugador::destroy($request->id);
+        return $jugador;
     }
 
     public function importData(){
         try {
-            Excel::import(new EquiposImport, 'equipos.csv', 'csvs');
-            return ["msg"=>"Información de equipos importada correctamente"];
+            Excel::import(new JugadoresImport, 'jugadores.csv', 'csvs');
+            return ["msg"=>"Información de jugadores importada correctamente"];
         } catch (\Exception $e) {
             return $e;
         }
