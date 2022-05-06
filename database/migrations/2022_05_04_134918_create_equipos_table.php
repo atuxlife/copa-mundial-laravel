@@ -17,6 +17,18 @@ return new class extends Migration
             $table->id();
             $table->string('nombre');
             $table->text('bandera');
+            $table->string('grupo');
+            $table->boolean('inicial')->default(true);
+            $table->boolean('octavos')->default(false);
+            $table->boolean('cuartos')->default(false);
+            $table->boolean('semifinales')->default(false);
+            $table->boolean('tercerpuesto')->default(false);
+            $table->boolean('final')->default(false);
+            $table->boolean('cuarto')->default(false);
+            $table->boolean('tercero')->default(false);
+            $table->boolean('subcampeon')->default(false);
+            $table->boolean('campeon')->default(false);
+            $table->boolean('eliminado')->default(false);
             $table->timestamps();
         });
     }

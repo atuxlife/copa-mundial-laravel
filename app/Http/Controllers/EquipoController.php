@@ -42,6 +42,7 @@ class EquipoController extends Controller
         $equipo = new Equipo();
         $equipo->nombre = $request->nombre;
         $equipo->bandera = $request->bandera;
+        $equipo->grupo = $request->grupo;
 
         $equipo->save();
         return $equipo;
@@ -82,6 +83,7 @@ class EquipoController extends Controller
         $equipo = Equipo::findOrFail($request->id);
         $equipo->nombre = $request->nombre;
         $equipo->bandera = $request->bandera;
+        $equipo->grupo = $request->grupo;
 
         $equipo->save();
 

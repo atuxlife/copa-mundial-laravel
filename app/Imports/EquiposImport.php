@@ -16,7 +16,8 @@ class EquiposImport implements ToModel
     {
         return new Equipo([
             'nombre'    => $row[0],
-            'bandera'   => $row[1],
+            'grupo'     => $row[1],
+            'bandera'   => $row[2],            
         ]);
     }
 }
