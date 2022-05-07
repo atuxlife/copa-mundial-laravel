@@ -8,4 +8,5 @@ use Illuminate\Database\Eloquent\Model;
 class Tarjetas extends Model
 {
     use HasFactory;
+    protected $fillable = ['partido_id', 'jugador_id', 'minuto', 'tarjeta'];
 }

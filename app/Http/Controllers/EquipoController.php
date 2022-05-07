@@ -6,7 +6,6 @@ use Illuminate\Http\Request;
 use App\Models\Equipo;
 use App\Imports\EquiposImport;
 use Maatwebsite\Excel\Facades\Excel;
-use Exception;
 
 class EquipoController extends Controller
 {

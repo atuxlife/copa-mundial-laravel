@@ -33,3 +33,11 @@ Route::post('/jugadores', 'App\Http\Controllers\JugadorController@store'); // Cr
 Route::put('/jugadores/{id}', 'App\Http\Controllers\JugadorController@update'); // Actualizar un jugador
 Route::delete('/jugadores/{id}', 'App\Http\Controllers\JugadorController@destroy'); // Eliminar un jugador
 Route::get('/jugadores-masivo', 'App\Http\Controllers\JugadorController@importData'); // Subir jugadores de manera masiva
+
+// Rutas para jugar el torneo
+Route::get('/primera-ronda', 'App\Http\Controllers\PatidoController@primeraRonda'); // Jugar primera ronda
+Route::get('/octavos', 'App\Http\Controllers\PatidoController@octavos'); // Jugar octavos de final
+Route::get('/cuartos', 'App\Http\Controllers\PatidoController@cuartos'); // Jugar cuartos de final
+Route::get('/semifinal', 'App\Http\Controllers\PatidoController@semifinal'); // Jugar semifinal
+Route::get('/tercer-puesto', 'App\Http\Controllers\PatidoController@tercerPuesto'); // Jugar tercer puesto
+Route::get('/final', 'App\Http\Controllers\PatidoController@final'); // Jugar final

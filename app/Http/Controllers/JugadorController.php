@@ -6,7 +6,6 @@ use Illuminate\Http\Request;
 use App\Models\Jugador;
 use App\Imports\JugadoresImport;
 use Maatwebsite\Excel\Facades\Excel;
-use Exception;
 
 class JugadorController extends Controller
 {

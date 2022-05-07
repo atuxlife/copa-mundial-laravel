@@ -26,6 +26,7 @@ return new class extends Migration
             $table->integer('rojasb');
             $table->enum('ronda', ['I', 'O', 'C', 'S', 'T', 'F']); // (I)nicial, (O)ctavos, (C)uartos, (S)emifinal, (T)ercer puesto, (F)inal
             $table->timestamps();
+            $table->unique(['equipoa_id', 'equipob_id', 'ronda']);
         });
     }
 
