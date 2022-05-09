@@ -1,0 +1,712 @@
+1,Óscar Córdoba,Colombiano,24,Portero,1,oscarcordoba.jpg
+1,Andrés Escobar ,Colombiano,27,Defensa,2,andresescobar.jpg
+1,Alexis Mendoza,Colombiano,33,Defensa,3,alexismendoza.jpg
+1,Luis Fernando Herrera,Colombiano,32,Defensa,4,luisfernandoherrera.jpg
+1,Hermán Gaviria ,Colombiano,24,Mediocampista,5,hermangaviria.jpg
+1,Gabriel Jaime Gómez,Colombiano,34,Mediocampista,6,gabrieljaimegomez.jpg
+1,Antony de Ávila,Colombiano,31,Delantero,7,antonydeavila.jpg
+1,John Harold Lozano,Colombiano,22,Mediocampista,8,johnharoldlozano.jpg
+1,Iván René Valenciano,Colombiano,22,Delantero,9,ivanrenevalenciano.jpg
+1,Carlos Valderrama  ,Colombiano,32,Mediocampista,10,carlosvalderrama.jpg
+1,Adolfo Valencia,Colombiano,26,Delantero,11,adolfovalencia.jpg
+1,Faryd Mondragón,Colombiano,23,Portero,12,farydmondragon.jpg
+1,Néstor Ortiz,Colombiano,26,Defensa,13,nestorortiz.jpg
+1,Leonel Álvarez,Colombiano,28,Mediocampista,14,leonelalvarez.jpg
+1,Luis Carlos Perea,Colombiano,30,Defensa,15,luiscarlosperea.jpg
+1,Víctor Hugo Aristizábal,Colombiano,22,Delantero,16,victorhugoaristizabal.jpg
+1,Mauricio Serna,Colombiano,26,Mediocampista,17,mauricioserna.jpg
+1,Óscar Fernando Cortés,Colombiano,25,Defensa,18,oscarfernandocortes.jpg
+1,Freddy Rincón ,Colombiano,27,Mediocampista,19,freddyrincon.jpg
+1,Wilson Pérez,Colombiano,26,Defensa,20,wilsonperez.jpg
+1,Faustino Asprilla,Colombiano,24,Delantero,21,faustinoasprilla.jpg
+1,José María Pazo,Colombiano,30,Portero,22,josemariapazo.jpg
+2,Florin Prunea,Rumano,25,Portero,1,foto.jpg
+2,Dan Petrescu,Rumano,26,Defensa,2,foto.jpg
+2,Daniel Prodan,Rumano,22,Defensa,3,foto.jpg
+2,Miodrag Belodedici,Rumano,30,Defensa,4,foto.jpg
+2,Ioan Lupescu,Rumano,25,Mediocampista,5,foto.jpg
+2,Gheorghe Popescu,Rumano,26,Mediocampista,6,foto.jpg
+2,Dorinel Munteanu,Rumano,25,Mediocampista,7,foto.jpg
+2,Iulian Chiriță,Rumano,27,Mediocampista,8,foto.jpg
+2,Florin Răducioiu,Rumano,24,Delantero,9,foto.jpg
+2,Gheorghe Hagi  ,Rumano,29,Mediocampista,10,foto.jpg
+2,Ilie Dumitrescu,Rumano,25,Delantero,11,foto.jpg
+2,Bogdan Stelea,Rumano,26,Portero,12,foto.jpg
+2,Tibor Selymes,Rumano,24,Defensa,13,foto.jpg
+2,Gheorghe Mihali,Rumano,28,Defensa,14,foto.jpg
+2,Basarab Panduru,Rumano,23,Mediocampista,15,foto.jpg
+2,Ion Vlădoiu,Rumano,25,Delantero,16,foto.jpg
+2,Viorel Moldovan,Rumano,21,Delantero,17,foto.jpg
+2,Constantin Gâlcă,Rumano,22,Mediocampista,18,foto.jpg
+2,Corneliu Papură,Rumano,20,Defensa,19,foto.jpg
+2,Ovidiu Stîngă,Rumano,21,Mediocampista,20,foto.jpg
+2,Marian Ivan,Rumano,25,Delantero,21,foto.jpg
+2,Ștefan Preda,Rumano,23,Portero,22,foto.jpg
+3,Marco Pascolo,Suizo,28,Portero,1,foto.jpg
+3,Marc Hottiger,Suizo,26,Defensa,2,foto.jpg
+3,Yvan Quentin,Suizo,24,Defensa,3,foto.jpg
+3,Dominique Herr,Suizo,28,Mediocampista,4,foto.jpg
+3,Alain Geiger Capitán,Suizo,33,Defensa,5,foto.jpg
+3,Georges Bregy,Suizo,36,Mediocampista,6,foto.jpg
+3,Alain Sutter,Suizo,26,Mediocampista,7,foto.jpg
+3,Christophe Ohrel,Suizo,26,Defensa,8,foto.jpg
+3,Adrian Knup,Suizo,25,Delantero,9,foto.jpg
+3,Ciriaco Sforza,Suizo,24,Mediocampista,10,foto.jpg
+3,Stéphane Chapuisat,Suizo,24,Delantero,11,foto.jpg
+3,Stephan Lehmann,Suizo,30,Portero,12,foto.jpg
+3,André Egli,Suizo,36,Defensa,13,foto.jpg
+3,Nestor Subiat,Suizo,28,Delantero,14,foto.jpg
+3,Marco Grassi,Suizo,25,Delantero,15,foto.jpg
+3,Thomas Bickel,Suizo,30,Mediocampista,16,foto.jpg
+3,Sébastien Fournier,Suizo,22,Mediocampista,17,foto.jpg
+3,Martin Rueda,Suizo,31,Defensa,18,foto.jpg
+3,Jürg Studer,Suizo,27,Defensa,19,foto.jpg
+3,Patrick Sylvestre,Suizo,25,Mediocampista,20,foto.jpg
+3,Thomas Wyss,Suizo,27,Mediocampista,21,foto.jpg
+3,Martin Brunner,Suizo,31,Portero,22,foto.jpg
+4,Tony Meola,Estadounidense,25,Portero,1,foto.jpg
+4,Mike Lapper,Estadounidense,23,Defensa,2,foto.jpg
+4,Mike Burns,Estadounidense,23,Defensa,3,foto.jpg
+4,Cle Kooiman,Estadounidense,30,Defensa,4,foto.jpg
+4,Thomas Dooley,Estadounidense,32,Mediocampista,5,foto.jpg
+4,John Harkes,Estadounidense,27,Mediocampista,6,foto.jpg
+4,Hugo Pérez,Estadounidense,30,Mediocampista,7,foto.jpg
+4,Earnie Stewart,Estadounidense,25,Delantero,8,foto.jpg
+4,Tab Ramos,Estadounidense,27,Mediocampista,9,foto.jpg
+4,Roy Wegerle,Estadounidense,30,Delantero,10,foto.jpg
+4,Eric Wynalda,Estadounidense,25,Delantero,11,foto.jpg
+4,Juergen Sommer,Estadounidense,25,Portero,12,foto.jpg
+4,Cobi Jones,Estadounidense,24,Mediocampista,13,foto.jpg
+4,Frank Klopas,Estadounidense,27,Delantero,14,foto.jpg
+4,Joe-Max Moore,Estadounidense,23,Delantero,15,foto.jpg
+4,Mike Sorber,Estadounidense,23,Mediocampista,16,foto.jpg
+4,Marcelo Balboa,Estadounidense,26,Defensa,17,foto.jpg
+4,Brad Friedel,Estadounidense,23,Portero,18,foto.jpg
+4,Claudio Reyna,Estadounidense,20,Mediocampista,19,foto.jpg
+4,Paul Caligiuri,Estadounidense,30,Defensa,20,foto.jpg
+4,Fernando Clavijo,Estadounidense,38,Defensa,21,foto.jpg
+4,Alexi Lalas,Estadounidense,24,Defensa,22,foto.jpg
+5,Cláudio Taffarel,Brasilero,28,Portero,1,foto.jpg
+5,Jorginho,Brasilero,29,Defensa,2,foto.jpg
+5,Ricardo Rocha,Brasilero,31,Defensa,3,foto.jpg
+5,Ronaldão,Brasilero,28,Defensa,4,foto.jpg
+5,Mauro Silva,Brasilero,26,Mediocampista,5,foto.jpg
+5,Branco,Brasilero,30,Defensa,6,foto.jpg
+5,Bebeto,Brasilero,30,Delantero,7,foto.jpg
+5,Dunga,Brasilero,30,Mediocampista,8,foto.jpg
+5,Zinho,Brasilero,27,Mediocampista,9,foto.jpg
+5,Raí,Brasilero,29,Mediocampista,10,foto.jpg
+5,Romário,Brasilero,28,Delantero,11,foto.jpg
+5,Zetti,Brasilero,29,Portero,12,foto.jpg
+5,Aldair,Brasilero,28,Defensa,13,foto.jpg
+5,Cafú,Brasilero,24,Defensa,14,foto.jpg
+5,Márcio Santos,Brasilero,24,Defensa,15,foto.jpg
+5,Leonardo,Brasilero,24,Mediocampista,16,foto.jpg
+5,Mazinho,Brasilero,28,Mediocampista,17,foto.jpg
+5,Paulo Sérgio,Brasilero,25,Mediocampista,18,foto.jpg
+5,Müller,Brasilero,28,Delantero,19,foto.jpg
+5,Ronaldo,Brasilero,17,Delantero,20,foto.jpg
+5,Viola,Brasilero,25,Delantero,21,foto.jpg
+5,Gilmar Rinaldi,Brasilero,35,Portero,22,foto.jpg
+6,Joseph-Antoine Bell,Camerunés,39,Portero,1,foto.jpg
+6,André Kana-Biyik,Camerunés,28,Defensa,2,foto.jpg
+6,Rigobert Song,Camerunés,17,Defensa,3,foto.jpg
+6,Samuel Ekemé,Camerunés,27,Defensa,4,foto.jpg
+6,Victor N'Dip,Camerunés,26,Defensa,5,foto.jpg
+6,Thomas Libiih,Camerunés,26,Mediocampista,6,foto.jpg
+6,François Omam-Biyik,Camerunés,28,Delantero,7,foto.jpg
+6,Emile M'Bouh,Camerunés,28,Mediocampista,8,foto.jpg
+6,Roger Milla,Camerunés,42,Delantero,9,foto.jpg
+6,Louis-Paul M'Fédé,Camerunés,33,Delantero,10,foto.jpg
+6,Emmanuel Maboang,Camerunés,25,Mediocampista,11,foto.jpg
+6,Paul Loga,Camerunés,24,Mediocampista,12,foto.jpg
+6,Raymond Kalla,Camerunés,19,Defensa,13,foto.jpg
+6,Stephen Tataw,Camerunés,31,Defensa,14,foto.jpg
+6,Hans Agbo,Camerunés,26,Defensa,15,foto.jpg
+6,Alphonse Tchami,Camerunés,22,Delantero,16,foto.jpg
+6,Marc-Vivien Foé,Camerunés,19,Mediocampista,17,foto.jpg
+6,Jean-Pierre Fiala,Camerunés,25,Mediocampista,18,foto.jpg
+6,David Embé,Camerunés,20,Delantero,19,foto.jpg
+6,Georges Mouyémé,Camerunés,23,Delantero,20,foto.jpg
+6,Thomas N'Kono,Camerunés,37,Portero,21,foto.jpg
+6,Jacques Songo'o,Camerunés,30,Portero,22,foto.jpg
+7,Stanislav Cherchesov,Ruso,30,Portero,1,foto.jpg
+7,Dmitri Kuznetsov,Ruso,28,Defensa,2,foto.jpg
+7,Sergei Gorlukovich,Ruso,32,Defensa,3,foto.jpg
+7,Dmitri Galiamin,Ruso,31,Defensa,4,foto.jpg
+7,Yuriy Nikiforov,Ruso,23,Defensa,5,foto.jpg
+7,Vladislav Ternavsky,Ruso,25,Defensa,6,foto.jpg
+7,Andrey Pyatnitsky,Ruso,26,Mediocampista,7,foto.jpg
+7,Dmitri Popov,Ruso,27,Mediocampista,8,foto.jpg
+7,Oleg Salenko,Ruso,24,Delantero,9,foto.jpg
+7,Valeri Karpin,Ruso,25,Mediocampista,10,foto.jpg
+7,Vladimir Beschastnykh,Ruso,20,Delantero,11,foto.jpg
+7,Omari Tetradze,Ruso,24,Defensa,12,foto.jpg
+7,Aleksandr Borodyuk,Ruso,31,Mediocampista,13,foto.jpg
+7,Igor Korneev,Ruso,26,Mediocampista,14,foto.jpg
+7,Dmitri Radchenko,Ruso,23,Delantero,15,foto.jpg
+7,Dmitri Kharine,Ruso,25,Portero,16,foto.jpg
+7,Ilya Tsymbalar,Ruso,25,Mediocampista,17,foto.jpg
+7,Viktor Onopko,Ruso,24,Defensa,18,foto.jpg
+7,Aleksandr Mostovoi,Ruso,25,Mediocampista,19,foto.jpg
+7,Igor Lediakhov,Ruso,26,Mediocampista,20,foto.jpg
+7,Dmitri Khlestov,Ruso,23,Mediocampista,21,foto.jpg
+7,Sergei Yuran,Ruso,25,Delantero,22,foto.jpg
+8,Thomas Ravelli,Sueco,34,Portero,1,foto.jpg
+8,Roland Nilsson,Sueco,30,Defensa,2,foto.jpg
+8,Patrik Andersson,Sueco,22,Defensa,3,foto.jpg
+8,Joachim Björklund,Sueco,23,Defensa,4,foto.jpg
+8,Roger Ljung,Sueco,28,Defensa,5,foto.jpg
+8,Stefan Schwarz,Sueco,25,Mediocampista,6,foto.jpg
+8,Henrik Larsson,Sueco,22,Delantero,7,foto.jpg
+8,Klas Ingesson,Sueco,25,Mediocampista,8,foto.jpg
+8,Jonas Thern,Sueco,27,Mediocampista,9,foto.jpg
+8,Martin Dahlin,Sueco,26,Delantero,10,foto.jpg
+8,Tomas Brolin,Sueco,24,Delantero,11,foto.jpg
+8,Lars Eriksson,Sueco,28,Portero,12,foto.jpg
+8,Mikael Nilsson,Sueco,25,Defensa,13,foto.jpg
+8,Pontus Kåmark,Sueco,25,Defensa,14,foto.jpg
+8,Teddy Lučić,Sueco,21,Defensa,15,foto.jpg
+8,Anders Limpar,Sueco,28,Mediocampista,16,foto.jpg
+8,Stefan Rehn,Sueco,27,Mediocampista,17,foto.jpg
+8,Håkan Mild,Sueco,23,Mediocampista,18,foto.jpg
+8,Kennet Andersson,Sueco,26,Delantero,19,foto.jpg
+8,Magnus Erlingmark,Sueco,25,Defensa,20,foto.jpg
+8,Jesper Blomqvist,Sueco,20,Mediocampista,21,foto.jpg
+8,Magnus Hedman,Sueco,21,Portero,22,foto.jpg
+9,Carlos Trucco,Boliviano,36,Portero,1,foto.jpg
+9,Juan Manuel Peña,Boliviano,21,Defensa,2,foto.jpg
+9,Marco Sandy,Boliviano,22,Defensa,3,foto.jpg
+9,Miguel Rimba,Boliviano,26,Defensa,4,foto.jpg
+9,Gustavo Quinteros,Boliviano,29,Defensa,5,foto.jpg
+9,Carlos Borja,Boliviano,37,Mediocampista,6,foto.jpg
+9,Mario Pinedo,Boliviano,30,Mediocampista,7,foto.jpg
+9,José Milton Melgar,Boliviano,34,Mediocampista,8,foto.jpg
+9,Álvaro Peña,Boliviano,29,Delantero,9,foto.jpg
+9,Marco Etcheverry,Boliviano,23,Mediocampista,10,foto.jpg
+9,Jaime Moreno,Boliviano,20,Delantero,11,foto.jpg
+9,Darío Rojas,Boliviano,34,Portero,12,foto.jpg
+9,Modesto Soruco,Boliviano,28,Defensa,13,foto.jpg
+9,Mauricio Ramos,Boliviano,24,Mediocampista,14,foto.jpg
+9,Vladimir Soria,Boliviano,29,Mediocampista,15,foto.jpg
+9,Luis Cristaldo,Boliviano,24,Defensa,16,foto.jpg
+9,Óscar Sánchez,Boliviano,22,Defensa,17,foto.jpg
+9,William Ramallo,Boliviano,30,Delantero,18,foto.jpg
+9,Marcelo Torrico,Boliviano,22,Portero,19,foto.jpg
+9,Ramiro Castillo,Boliviano,28,Mediocampista,20,foto.jpg
+9,Erwin Sánchez,Boliviano,24,Mediocampista,21,foto.jpg
+9,Julio César Baldivieso,Boliviano,22,Mediocampista,22,foto.jpg
+10,Bodo Illgner,Alemán,27,Portero,1,foto.jpg
+10,Thomas Strunz,Alemán,26,Mediocampista,2,foto.jpg
+10,Andreas Brehme,Alemán,33,Defensa,3,foto.jpg
+10,Jürgen Kohler,Alemán,28,Defensa,4,foto.jpg
+10,Thomas Helmer,Alemán,29,Defensa,5,foto.jpg
+10,Guido Buchwald,Alemán,33,Defensa,6,foto.jpg
+10,Andreas Möller,Alemán,26,Mediocampista,7,foto.jpg
+10,Thomas Häßler,Alemán,28,Mediocampista,8,foto.jpg
+10,Karl-Heinz Riedle,Alemán,28,Delantero,9,foto.jpg
+10,Lothar Matthäus,Alemán,33,Mediocampista,10,foto.jpg
+10,Stefan Kuntz,Alemán,31,Delantero,11,foto.jpg
+10,Andreas Köpke,Alemán,32,Portero,12,foto.jpg
+10,Rudi Völler,Alemán,34,Delantero,13,foto.jpg
+10,Thomas Berthold,Alemán,29,Defensa,14,foto.jpg
+10,Maurizio Gaudino,Alemán,27,Mediocampista,15,foto.jpg
+10,Matthias Sammer,Alemán,26,Defensa,16,foto.jpg
+10,Martin Wagner,Alemán,26,Mediocampista,17,foto.jpg
+10,Jürgen Klinsmann,Alemán,29,Delantero,18,foto.jpg
+10,Ulf Kirsten,Alemán,28,Delantero,19,foto.jpg
+10,Stefan Effenberg,Alemán,25,Mediocampista,20,foto.jpg
+10,Mario Basler,Alemán,25,Mediocampista,21,foto.jpg
+10,Oliver Kahn,Alemán,25,Portero,22,foto.jpg
+11,Choi In-young,Coreano,32,Portero,1,foto.jpg
+11,Chung Jong-son,Coreano,28,Mediocampista,2,foto.jpg
+11,Lee Jong-hwa,Coreano,30,Defensa,3,foto.jpg
+11,Kim Pan-keun,Coreano,28,Defensa,4,foto.jpg
+11,Park Jung-bae,Coreano,27,Defensa,5,foto.jpg
+11,Lee Young-jin,Coreano,30,Mediocampista,6,foto.jpg
+11,Shin Hong-gi,Coreano,26,Defensa,7,foto.jpg
+11,Noh Jung-yoon,Coreano,23,Mediocampista,8,foto.jpg
+11,Kim Joo-sung,Coreano,28,Mediocampista,9,foto.jpg
+11,Ko Jeong-woon,Coreano,27,Delantero,10,foto.jpg
+11,Seo Jung-won,Coreano,23,Delantero,11,foto.jpg
+11,Choi Young-il,Coreano,28,Defensa,12,foto.jpg
+11,An Ik-soo,Coreano,29,Defensa,13,foto.jpg
+11,Choi Dae-shik,Coreano,29,Mediocampista,14,foto.jpg
+11,Cho Jin-ho,Coreano,20,Mediocampista,15,foto.jpg
+11,Ha Seok-ju,Coreano,26,Mediocampista,16,foto.jpg
+11,Gu Sang-bum,Coreano,30,Defensa,17,foto.jpg
+11,Hwang Sun-hong,Coreano,25,Delantero,18,foto.jpg
+11,Choi Moon-sik,Coreano,23,Mediocampista,19,foto.jpg
+11,Hong Myung-bo,Coreano,25,Defensa,20,foto.jpg
+11,Park Chul-woo,Coreano,28,Portero,21,foto.jpg
+11,Lee Woon-jae,Coreano,21,Portero,22,foto.jpg
+12,Andoni Zubizarreta,Español,32,Portero,1,foto.jpg
+12,Albert Ferrer,Español,24,Defensa,2,foto.jpg
+12,Jorge Otero,Español,25,Defensa,3,foto.jpg
+12,Francisco Camarasa,Español,26,Defensa,4,foto.jpg
+12,Abelardo,Español,24,Defensa,5,foto.jpg
+12,Fernando Hierro,Español,26,Mediocampista,6,foto.jpg
+12,Andoni Goikoetxea,Español,28,Delantero,7,foto.jpg
+12,Julen Guerrero,Español,20,Mediocampista,8,foto.jpg
+12,Josep Guardiola,Español,23,Mediocampista,9,foto.jpg
+12,José Mari Bakero,Español,31,Mediocampista,10,foto.jpg
+12,Txiki Begiristain,Español,29,Delantero,11,foto.jpg
+12,Sergi,Español,22,Defensa,12,foto.jpg
+12,Santiago Cañizares,Español,24,Portero,13,foto.jpg
+12,Juanele,Español,23,Delantero,14,foto.jpg
+12,José Luis Caminero,Español,26,Mediocampista,15,foto.jpg
+12,Felipe Miñambres,Español,29,Mediocampista,16,foto.jpg
+12,Voro,Español,30,Defensa,17,foto.jpg
+12,Rafael Alkorta,Español,25,Defensa,18,foto.jpg
+12,Julio Salinas,Español,31,Delantero,19,foto.jpg
+12,Miguel Ángel Nadal,Español,27,Defensa,20,foto.jpg
+12,Luis Enrique,Español,24,Mediocampista,21,foto.jpg
+12,Julen Lopetegui,Español,27,Portero,22,foto.jpg
+13,Sergio Goycochea,Argentino,30,Portero,1,foto.jpg
+13,Sergio Vázquez,Argentino,28,Defensa,2,foto.jpg
+13,José Chamot,Argentino,25,Defensa,3,foto.jpg
+13,Roberto Sensini,Argentino,27,Defensa,4,foto.jpg
+13,Fernando Redondo,Argentino,25,Mediocampista,5,foto.jpg
+13,Oscar Ruggeri,Argentino,32,Defensa,6,foto.jpg
+13,Claudio Caniggia,Argentino,27,Delantero,7,foto.jpg
+13,José Basualdo,Argentino,30,Mediocampista,8,foto.jpg
+13,Gabriel Batistuta,Argentino,25,Delantero,9,foto.jpg
+13,Diego Maradona,Argentino,33,Mediocampista,10,foto.jpg
+13,Ramón Medina Bello,Argentino,28,Delantero,11,foto.jpg
+13,Luis Islas,Argentino,28,Portero,12,foto.jpg
+13,Fernando Cáceres,Argentino,25,Defensa,13,foto.jpg
+13,Diego Simeone,Argentino,24,Mediocampista,14,foto.jpg
+13,Jorge Borelli,Argentino,29,Defensa,15,foto.jpg
+13,Hernán Díaz,Argentino,29,Defensa,16,foto.jpg
+13,Ariel Ortega,Argentino,20,Mediocampista,17,foto.jpg
+13,Hugo Pérez,Argentino,25,Mediocampista,18,foto.jpg
+13,Abel Balbo,Argentino,28,Delantero,19,foto.jpg
+13,Leonardo Rodríguez,Argentino,27,Mediocampista,20,foto.jpg
+13,Alejandro Mancuso,Argentino,25,Mediocampista,21,foto.jpg
+13,Norberto Scoponi,Argentino,33,Portero,22,foto.jpg
+14,Borislav Mikhailov,Búlgaro,31,Portero,1,foto.jpg
+14,Emil Kremenliev,Búlgaro,24,Defensa,2,foto.jpg
+14,Trifon Ivanov,Búlgaro,28,Defensa,3,foto.jpg
+14,Tsanko Tsvetanov,Búlgaro,24,Defensa,4,foto.jpg
+14,Petar Hubchev,Búlgaro,30,Defensa,5,foto.jpg
+14,Zlatko Yankov,Búlgaro,27,Mediocampista,6,foto.jpg
+14,Emil Kostadinov,Búlgaro,26,Delantero,7,foto.jpg
+14,Hristo Stoichkov,Búlgaro,28,Delantero,8,foto.jpg
+14,Yordan Letchkov,Búlgaro,26,Mediocampista,9,foto.jpg
+14,Nasko Sirakov,Búlgaro,32,Delantero,10,foto.jpg
+14,Daniel Borimirov,Búlgaro,24,Mediocampista,11,foto.jpg
+14,Plamen Nikolov,Búlgaro,32,Portero,12,foto.jpg
+14,Ivaylo Yordanov,Búlgaro,26,Mediocampista,13,foto.jpg
+14,Boncho Genchev,Búlgaro,29,Mediocampista,14,foto.jpg
+14,Nikolay Iliev,Búlgaro,30,Defensa,15,foto.jpg
+14,Iliyan Kiryakov,Búlgaro,26,Defensa,16,foto.jpg
+14,Petar Mihtarski,Búlgaro,27,Delantero,17,foto.jpg
+14,Petar Aleksandrov,Búlgaro,31,Delantero,18,foto.jpg
+14,Georgi Georgiev,Búlgaro,31,Mediocampista,19,foto.jpg
+14,Krasimir Balakov,Búlgaro,28,Mediocampista,20,foto.jpg
+14,Velko Yotov,Búlgaro,23,Delantero,21,foto.jpg
+14,Ivaylo Andonov,Búlgaro,26,Delantero,22,foto.jpg
+15,Antonis Minou,Griego,36,Portero,1,foto.jpg
+15,Stratos Apostolakis,Griego,30,Defensa,2,foto.jpg
+15,Thanasis Kolitsidakis,Griego,27,Defensa,3,foto.jpg
+15,Stelios Manolas,Griego,32,Defensa,4,foto.jpg
+15,Ioannis Kalitzakis,Griego,28,Defensa,5,foto.jpg
+15,Panagiotis Tsalouchidis,Griego,31,Mediocampista,6,foto.jpg
+15,Dimitris Saravakos,Griego,32,Mediocampista,7,foto.jpg
+15,Nikos Nioplias,Griego,29,Mediocampista,8,foto.jpg
+15,Nikos Machlas,Griego,21,Delantero,9,foto.jpg
+15,Tasos Mitropoulos,Griego,36,Mediocampista,10,foto.jpg
+15,Nikos Tsiantakis,Griego,30,Mediocampista,11,foto.jpg
+15,Spiros Marangos,Griego,27,Mediocampista,12,foto.jpg
+15,Vaios Karagiannis,Griego,25,Defensa,13,foto.jpg
+15,Vasilis Dimitriadis,Griego,28,Delantero,14,foto.jpg
+15,Christos Karkamanis,Griego,24,Portero,15,foto.jpg
+15,Alexis Alexoudis,Griego,21,Delantero,16,foto.jpg
+15,Minas Hantzidis,Griego,27,Mediocampista,17,foto.jpg
+15,Kyriakos Karataidis,Griego,28,Defensa,18,foto.jpg
+15,Savvas Kofidis,Griego,33,Mediocampista,19,foto.jpg
+15,Elias Atmatsidis,Griego,25,Portero,20,foto.jpg
+15,Alexis Alexandris,Griego,25,Delantero,21,foto.jpg
+15,Alexis Alexiou,Griego,30,Defensa,22,foto.jpg
+16,Peter Rufai,Nigeriano,30,Portero,1,foto.jpg
+16,Augustine Eguavoen,Nigeriano,28,Defensa,2,foto.jpg
+16,Benedict Iroha,Nigeriano,24,Defensa,3,foto.jpg
+16,Stephen Keshi,Nigeriano,32,Defensa,4,foto.jpg
+16,Uche Okechukwu,Nigeriano,26,Defensa,5,foto.jpg
+16,Chidi Nwanu,Nigeriano,27,Defensa,6,foto.jpg
+16,Finidi George,Nigeriano,23,Mediocampista,7,foto.jpg
+16,Thompson Oliha,Nigeriano,25,Mediocampista,8,foto.jpg
+16,Rashidi Yekini,Nigeriano,30,Delantero,9,foto.jpg
+16,Jay-Jay Okocha,Nigeriano,20,Mediocampista,10,foto.jpg
+16,Emmanuel Amunike,Nigeriano,23,Mediocampista,11,foto.jpg
+16,Samson Siasia,Nigeriano,26,Delantero,12,foto.jpg
+16,Emeka Ezeugo,Nigeriano,28,Defensa,13,foto.jpg
+16,Daniel Amokachi,Nigeriano,21,Delantero,14,foto.jpg
+16,Sunday Oliseh,Nigeriano,19,Mediocampista,15,foto.jpg
+16,Alloysius Agu,Nigeriano,26,Portero,16,foto.jpg
+16,Victor Ikpeba,Nigeriano,21,Delantero,17,foto.jpg
+16,Efan Ekoku,Nigeriano,27,Delantero,18,foto.jpg
+16,Michael Emenalo,Nigeriano,28,Defensa,19,foto.jpg
+16,Uche Okafor,Nigeriano,26,Defensa,20,foto.jpg
+16,Mutiu Adepoju,Nigeriano,23,Mediocampista,21,foto.jpg
+16,Wilfred Agbonavbare,Nigeriano,27,Portero,22,foto.jpg
+17,Gianluca Pagliuca,Italiano,27,Portero,1,foto.jpg
+17,Luigi Apolloni,Italiano,27,Defensa,2,foto.jpg
+17,Antonio Benarrivo,Italiano,25,Defensa,3,foto.jpg
+17,Alessandro Costacurta,Italiano,28,Defensa,4,foto.jpg
+17,Paolo Maldini,Italiano,25,Defensa,5,foto.jpg
+17,Franco Baresi,Italiano,34,Defensa,6,foto.jpg
+17,Lorenzo Minotti,Italiano,27,Defensa,7,foto.jpg
+17,Roberto Mussi,Italiano,30,Defensa,8,foto.jpg
+17,Mauro Tassotti,Italiano,34,Defensa,9,foto.jpg
+17,Roberto Baggio,Italiano,27,Delantero,10,foto.jpg
+17,Demetrio Albertini,Italiano,22,Mediocampista,11,foto.jpg
+17,Luca Marchegiani,Italiano,28,Portero,12,foto.jpg
+17,Dino Baggio,Italiano,22,Mediocampista,13,foto.jpg
+17,Nicola Berti,Italiano,27,Mediocampista,14,foto.jpg
+17,Antonio Conte,Italiano,24,Mediocampista,15,foto.jpg
+17,Roberto Donadoni,Italiano,30,Mediocampista,16,foto.jpg
+17,Alberigo Evani,Italiano,31,Mediocampista,17,foto.jpg
+17,Pierluigi Casiraghi,Italiano,25,Delantero,18,foto.jpg
+17,Daniele Massaro,Italiano,33,Delantero,19,foto.jpg
+17,Giuseppe Signori,Italiano,26,Delantero,20,foto.jpg
+17,Gianfranco Zola,Italiano,27,Delantero,21,foto.jpg
+17,Luca Bucci,Italiano,25,Portero,22,foto.jpg
+18,Jorge Campos,Mexicano,27,Portero,1,foto.jpg
+18,Claudio Suárez,Mexicano,25,Defensa,2,foto.jpg
+18,Juan de Dios Ramírez Perales,Mexicano,25,Defensa,3,foto.jpg
+18,Ignacio Ambriz,Mexicano,29,Defensa,4,foto.jpg
+18,Ramón Ramírez,Mexicano,24,Mediocampista,5,foto.jpg
+18,Marcelino Bernal,Mexicano,32,Mediocampista,6,foto.jpg
+18,Carlos Hermosillo,Mexicano,29,Delantero,7,foto.jpg
+18,Alberto García Aspe,Mexicano,27,Mediocampista,8,foto.jpg
+18,Hugo Sánchez,Mexicano,35,Delantero,9,foto.jpg
+18,Luis García Postigo,Mexicano,25,Delantero,10,foto.jpg
+18,Zague,Mexicano,27,Delantero,11,foto.jpg
+18,Félix Fernández,Mexicano,27,Portero,12,foto.jpg
+18,Juan Carlos Chávez,Mexicano,27,Mediocampista,13,foto.jpg
+18,Joaquín del Olmo,Mexicano,25,Mediocampista,14,foto.jpg
+18,Missael Espinoza,Mexicano,29,Mediocampista,15,foto.jpg
+18,Luis Antonio Valdez,Mexicano,28,Delantero,16,foto.jpg
+18,Benjamín Galindo,Mexicano,33,Mediocampista,17,foto.jpg
+18,José Luis Salgado,Mexicano,28,Defensa,18,foto.jpg
+18,Luis Miguel Salvador,Mexicano,26,Delantero,19,foto.jpg
+18,Jorge Rodríguez,Mexicano,26,Mediocampista,20,foto.jpg
+18,Raúl Gutiérrez,Mexicano,27,Defensa,21,foto.jpg
+18,Adrián Chávez,Mexicano,31,Portero,22,foto.jpg
+19,Erik Thorstvedt,Noruego,31,Portero,1,foto.jpg
+19,Gunnar Halle,Noruego,28,Defensa,2,foto.jpg
+19,Erland Johnsen,Noruego,27,Defensa,3,foto.jpg
+19,Rune Bratseth,Noruego,33,Defensa,4,foto.jpg
+19,Stig Inge Bjørnebye,Noruego,24,Defensa,5,foto.jpg
+19,Jostein Flo,Noruego,29,Delantero,6,foto.jpg
+19,Erik Mykland,Noruego,22,Mediocampista,7,foto.jpg
+19,Øyvind Leonhardsen,Noruego,23,Mediocampista,8,foto.jpg
+19,Jan Åge Fjørtoft,Noruego,27,Delantero,9,foto.jpg
+19,Kjetil Rekdal,Noruego,25,Mediocampista,10,foto.jpg
+19,Mini Jakobsen,Noruego,28,Delantero,11,foto.jpg
+19,Frode Grodås,Noruego,29,Portero,12,foto.jpg
+19,Ola By Rise,Noruego,33,Portero,13,foto.jpg
+19,Roger Nilsen,Noruego,24,Defensa,14,foto.jpg
+19,Karl Petter Løken,Noruego,27,Defensa,15,foto.jpg
+19,Gøran Sørloth,Noruego,31,Delantero,16,foto.jpg
+19,Dan Eggen,Noruego,24,Defensa,17,foto.jpg
+19,Alf-Inge Håland,Noruego,21,Defensa,18,foto.jpg
+19,Roar Strand,Noruego,24,Mediocampista,19,foto.jpg
+19,Henning Berg,Noruego,24,Defensa,20,foto.jpg
+19,Sigurd Rushfeldt,Noruego,21,Delantero,21,foto.jpg
+19,Lars Bohinen,Noruego,24,Mediocampista,22,foto.jpg
+20,Pat Bonner,Irlandés,34,Portero,1,foto.jpg
+20,Denis Irwin,Irlandés,28,Defensa,2,foto.jpg
+20,Terry Phelan,Irlandés,27,Defensa,3,foto.jpg
+20,Kevin Moran,Irlandés,38,Defensa,4,foto.jpg
+20,Paul McGrath,Irlandés,34,Defensa,5,foto.jpg
+20,Roy Keane,Irlandés,22,Mediocampista,6,foto.jpg
+20,Andy Townsend,Irlandés,30,Mediocampista,7,foto.jpg
+20,Ray Houghton,Irlandés,32,Mediocampista,8,foto.jpg
+20,John Aldridge,Irlandés,35,Delantero,9,foto.jpg
+20,John Sheridan,Irlandés,29,Mediocampista,10,foto.jpg
+20,Steve Staunton,Irlandés,25,Defensa,11,foto.jpg
+20,Gary Kelly,Irlandés,19,Defensa,12,foto.jpg
+20,Alan Kernaghan,Irlandés,27,Defensa,13,foto.jpg
+20,Phil Babb,Irlandés,23,Defensa,14,foto.jpg
+20,Tommy Coyne,Irlandés,31,Delantero,15,foto.jpg
+20,Tony Cascarino,Irlandés,31,Delantero,16,foto.jpg
+20,Eddie McGoldrick,Irlandés,29,Delantero,17,foto.jpg
+20,Ronnie Whelan,Irlandés,32,Mediocampista,18,foto.jpg
+20,Alan McLoughlin,Irlandés,27,Mediocampista,19,foto.jpg
+20,David Kelly,Irlandés,28,Delantero,20,foto.jpg
+20,Jason McAteer,Irlandés,22,Mediocampista,21,foto.jpg
+20,Alan Kelly,Irlandés,25,Portero,22,foto.jpg
+21,Michel Preud'homme,Belga,35,Portero,1,foto.jpg
+21,Dirk Medved,Belga,26,Defensa,2,foto.jpg
+21,Vital Borkelmans,Belga,31,Defensa,3,foto.jpg
+21,Philippe Albert,Belga,26,Defensa,4,foto.jpg
+21,Rudi Smidts,Belga,30,Defensa,5,foto.jpg
+21,Lorenzo Staelens,Belga,30,Mediocampista,6,foto.jpg
+21,Franky Van Der Elst,Belga,33,Mediocampista,7,foto.jpg
+21,Luc Nilis,Belga,27,Delantero,8,foto.jpg
+21,Marc Degryse,Belga,28,Delantero,9,foto.jpg
+21,Enzo Scifo,Belga,28,Mediocampista,10,foto.jpg
+21,Alexandre Czerniatynski,Belga,33,Delantero,11,foto.jpg
+21,Filip De Wilde,Belga,29,Portero,12,foto.jpg
+21,Georges Grün,Belga,32,Defensa,13,foto.jpg
+21,Michel De Wolf,Belga,36,Defensa,14,foto.jpg
+21,Marc Emmers,Belga,28,Mediocampista,15,foto.jpg
+21,Danny Boffin,Belga,28,Mediocampista,16,foto.jpg
+21,Josip Weber,Belga,29,Delantero,17,foto.jpg
+21,Marc Wilmots,Belga,25,Mediocampista,18,foto.jpg
+21,Eric Van Meir,Belga,26,Defensa,19,foto.jpg
+21,Dany Verlinden,Belga,30,Portero,20,foto.jpg
+21,Stéphane van der Heyden,Belga,24,Mediocampista,21,foto.jpg
+21,Pascal Renier,Belga,22,Defensa,22,foto.jpg
+22,Khalil Azmi,Marroquí,29,Portero,1,foto.jpg
+22,Nacer Abdellah,Marroquí,28,Defensa,2,foto.jpg
+22,Abdelkrim El Hadrioui,Marroquí,22,Defensa,3,foto.jpg
+22,Tahar El Khalej,Marroquí,26,Mediocampista,4,foto.jpg
+22,Smahi Triki,Marroquí,26,Defensa,5,foto.jpg
+22,Noureddine Naybet,Marroquí,24,Defensa,6,foto.jpg
+22,Mustapha Hadji,Marroquí,22,Mediocampista,7,foto.jpg
+22,Rachid Azzouzi,Marroquí,23,Mediocampista,8,foto.jpg
+22,Mohammed Chaouch,Marroquí,27,Delantero,9,foto.jpg
+22,Mustapha El Haddaoui,Marroquí,32,Mediocampista,10,foto.jpg
+22,Rachid Daoudi,Marroquí,28,Mediocampista,11,foto.jpg
+22,Said Dghay,Marroquí,30,Portero,12,foto.jpg
+22,Ahmed Bahja,Marroquí,23,Delantero,13,foto.jpg
+22,Ahmed Masbahi,Marroquí,28,Defensa,14,foto.jpg
+22,El Arbi Hababi,Marroquí,26,Mediocampista,15,foto.jpg
+22,Hassan Nader,Marroquí,28,Delantero,16,foto.jpg
+22,Abdeslam Laghrissi,Marroquí,32,Delantero,17,foto.jpg
+22,Rachid Neqrouz,Marroquí,22,Defensa,18,foto.jpg
+22,Abdelmajid Bouyboud,Marroquí,27,Delantero,19,foto.jpg
+22,Hassan Kachloul,Marroquí,21,Mediocampista,20,foto.jpg
+22,Mohamed Samadi,Marroquí,24,Mediocampista,21,foto.jpg
+22,Zakaria Alaoui,Marroquí,28,Portero,22,foto.jpg
+23,Ed de Goey,Holandés,27,Portero,1,foto.jpg
+23,Frank de Boer,Holandés,24,Defensa,2,foto.jpg
+23,Frank Rijkaard,Holandés,31,Mediocampista,3,foto.jpg
+23,Ronald Koeman,Holandés,31,Defensa,4,foto.jpg
+23,Rob Witschge,Holandés,27,Mediocampista,5,foto.jpg
+23,Jan Wouters,Holandés,33,Mediocampista,6,foto.jpg
+23,Marc Overmars,Holandés,21,Delantero,7,foto.jpg
+23,Wim Jonk,Holandés,27,Mediocampista,8,foto.jpg
+23,Ronald de Boer,Holandés,24,Mediocampista,9,foto.jpg
+23,Dennis Bergkamp,Holandés,25,Delantero,10,foto.jpg
+23,Bryan Roy,Holandés,24,Delantero,11,foto.jpg
+23,John Bosman,Holandés,29,Delantero,12,foto.jpg
+23,Edwin van der Sar,Holandés,23,Portero,13,foto.jpg
+23,Ulrich van Gobbel,Holandés,23,Defensa,14,foto.jpg
+23,Danny Blind,Holandés,32,Defensa,15,foto.jpg
+23,Arthur Numan,Holandés,24,Defensa,16,foto.jpg
+23,Gaston Taument,Holandés,23,Delantero,17,foto.jpg
+23,Stan Valckx,Holandés,30,Defensa,18,foto.jpg
+23,Peter van Vossen,Holandés,26,Delantero,19,foto.jpg
+23,Aron Winter,Holandés,27,Mediocampista,20,foto.jpg
+23,John de Wolf,Holandés,31,Defensa,21,foto.jpg
+23,Theo Snelders,Holandés,30,Portero,22,foto.jpg
+24,Mohamed Al-Deayea,Árabe,21,Portero,1,foto.jpg
+24,Abdullah Al-Dosari,Árabe,24,Defensa,2,foto.jpg
+24,Mohammed Al-Khilaiwi,Árabe,22,Defensa,3,foto.jpg
+24,Abdullah Zubromawi,Árabe,20,Defensa,4,foto.jpg
+24,Ahmed Jamil Madani,Árabe,24,Defensa,5,foto.jpg
+24,Fuad Anwar Amin,Árabe,21,Mediocampista,6,foto.jpg
+24,Fahad Al-Ghesheyan,Árabe,20,Delantero,7,foto.jpg
+24,Fahad Al-Bishi,Árabe,28,Mediocampista,8,foto.jpg
+24,Majed Abdullah,Árabe,34,Delantero,9,foto.jpg
+24,Saeed Al-Owairan,Árabe,26,Delantero,10,foto.jpg
+24,Fahad Al-Mehallel,Árabe,23,Delantero,11,foto.jpg
+24,Sami Al-Jaber,Árabe,21,Delantero,12,foto.jpg
+24,Mohamed Abd Al-Jawad,Árabe,31,Defensa,13,foto.jpg
+24,Khalid Al-Muwallid,Árabe,22,Mediocampista,14,foto.jpg
+24,Saleh Al-Dawod,Árabe,25,Defensa,15,foto.jpg
+24,Talal Jebreen,Árabe,20,Mediocampista,16,foto.jpg
+24,Yassir Al-Taifi,Árabe,23,Defensa,17,foto.jpg
+24,Awad Al-Anazi,Árabe,25,Mediocampista,18,foto.jpg
+24,Hamzah Saleh,Árabe,27,Mediocampista,19,foto.jpg
+24,Hamzah Idris,Árabe,21,Delantero,20,foto.jpg
+24,Hussein Al-Sadiq,Árabe,20,Portero,21,foto.jpg
+24,Ibrahim Al-Helwah,Árabe,21,Portero,22,foto.jpg
+25,Mathew Ryan,Australiano,26,Portero,1,foto.jpg
+25,Milos Degenek,Australiano,24,Defensa,2,foto.jpg
+25,James Meredith,Australiano,30,Defensa,3,foto.jpg
+25,Tim Cahill,Australiano,38,Centrocampista,4,foto.jpg
+25,Mark Milligan,Australiano,32,Defensa,5,foto.jpg
+25,Matthew Jurman,Australiano,28,Defensa,6,foto.jpg
+25,Mathew Leckie,Australiano,27,Delantero,7,foto.jpg
+25,Massimo Luongo,Australiano,25,Centrocampista,8,foto.jpg
+25,Tomi Juric,Australiano,26,Delantero,9,foto.jpg
+25,Robbie Kruse,Australiano,29,Delantero,10,foto.jpg
+25,Andrew Nabbout,Australiano,25,Delantero,11,foto.jpg
+25,Brad Jones,Australiano,36,Portero,12,foto.jpg
+25,Aaron Mooy,Australiano,27,Centrocampista,13,foto.jpg
+25,Jamie Maclaren,Australiano,24,Delantero,14,foto.jpg
+25,Mile Jedinak,Australiano,33,Centrocampista,15,foto.jpg
+25,Aziz Behich,Australiano,27,Defensa,16,foto.jpg
+25,Daniel Arzani,Australiano,19,Delantero,17,foto.jpg
+25,Danny Vukovic,Australiano,33,Portero,18,foto.jpg
+25,Josh Risdon,Australiano,25,Defensa,19,foto.jpg
+25,Trent Sainsbury,Australiano,26,Defensa,20,foto.jpg
+25,Dimitri Petratos,Australiano,25,Delantero,21,foto.jpg
+25,Jackson Irvine,Australiano,25,Centrocampista,22,foto.jpg
+25,Tom Rogić,Australiano,25,Centrocampista,23,foto.jpg
+26,Keylor Navas,Costarricense,31,Portero,1,foto.jpg
+26,Johnny Acosta,Costarricense,34,Defensa,2,foto.jpg
+26,Giancarlo González,Costarricense,30,Defensa,3,foto.jpg
+26,Ian Smith,Costarricense,20,Defensa,4,foto.jpg
+26,Celso Borges,Costarricense,30,Centrocampista,5,foto.jpg
+26,Óscar Duarte,Costarricense,29,Defensa,6,foto.jpg
+26,Christian Bolaños,Costarricense,34,Centrocampista,7,foto.jpg
+26,Bryan Oviedo,Costarricense,28,Defensa,8,foto.jpg
+26,Daniel Colindres,Costarricense,33,Centrocampista,9,foto.jpg
+26,Bryan Ruiz,Costarricense,32,Centrocampista,10,foto.jpg
+26,Johan Venegas,Costarricense,29,Delantero,11,foto.jpg
+26,Joel Campbell,Costarricense,25,Delantero,12,foto.jpg
+26,Rodney Wallace,Costarricense,29,Centrocampista,13,foto.jpg
+26,Randall Azofeifa,Costarricense,33,Centrocampista,14,foto.jpg
+26,Francisco Calvo,Costarricense,25,Defensa,15,foto.jpg
+26,Cristian Gamboa,Costarricense,28,Defensa,16,foto.jpg
+26,Yeltsin Tejeda,Costarricense,26,Centrocampista,17,foto.jpg
+26,Patrick Pemberton,Costarricense,36,Portero,18,foto.jpg
+26,Kendall Waston,Costarricense,30,Defensa,19,foto.jpg
+26,David Guzmán,Costarricense,28,Centrocampista,20,foto.jpg
+26,Marco Ureña,Costarricense,28,Delantero,21,foto.jpg
+26,Kenner Gutiérrez,Costarricense,29,Defensa,22,foto.jpg
+26,Leonel Moreira,Costarricense,28,Portero,23,foto.jpg
+27,Essam El-Hadary,Egipcio,45,Portero,1,foto.jpg
+27,Ali Gabr,Egipcio,29,Defensa,2,foto.jpg
+27,Ahmed Al-Muhammadi,Egipcio,30,Defensa,3,foto.jpg
+27,Omar Gaber,Egipcio,26,Centrocampista,4,foto.jpg
+27,Sam Morsy,Egipcio,26,Centrocampista,5,foto.jpg
+27,Ahmed Hegazy,Egipcio,27,Defensa,6,foto.jpg
+27,Ahmed Fathy,Egipcio,33,Defensa,7,foto.jpg
+27,Tarek Hamed,Egipcio,29,Centrocampista,8,foto.jpg
+27,Marwan Mohsen,Egipcio,29,Delantero,9,foto.jpg
+27,Mohamed Salah,Egipcio,25,Delantero,10,foto.jpg
+27,Mahmoud Kahraba,Egipcio,24,Delantero,11,foto.jpg
+27,Ayman Ashraf,Egipcio,27,Defensa,12,foto.jpg
+27,Mohamed Abdel-Shafy,Egipcio,32,Defensa,13,foto.jpg
+27,Ramadan Sobhi,Egipcio,21,Delantero,14,foto.jpg
+27,Mahmoud Hamdy,Egipcio,23,Defensa,15,foto.jpg
+27,Sherif Ekramy,Egipcio,34,Portero,16,foto.jpg
+27,Mohamed Elneny,Egipcio,25,Centrocampista,17,foto.jpg
+27,Shikabala,Egipcio,32,Delantero,18,foto.jpg
+27,Abdallah Said,Egipcio,32,Centrocampista,19,foto.jpg
+27,Saad Samir,Egipcio,29,Defensa,20,foto.jpg
+27,Trézéguet,Egipcio,23,Centrocampista,21,foto.jpg
+27,Amr Warda,Egipcio,24,Delantero,22,foto.jpg
+27,Mohamed El-Shenawy,Egipcio,29,Portero,23,foto.jpg
+28,Hugo Lloris,Francés,31,Portero,1,foto.jpg
+28,Benjamin Pavard,Francés,22,Defensa,2,foto.jpg
+28,Presnel Kimpembe,Francés,22,Defensa,3,foto.jpg
+28,Raphaël Varane,Francés,25,Defensa,4,foto.jpg
+28,Samuel Umtiti,Francés,24,Defensa,5,foto.jpg
+28,Paul Pogba,Francés,25,Centrocampista,6,foto.jpg
+28,Antoine Griezmann,Francés,27,Delantero,7,foto.jpg
+28,Thomas Lemar,Francés,22,Delantero,8,foto.jpg
+28,Olivier Giroud,Francés,31,Delantero,9,foto.jpg
+28,Kylian Mbappé,Francés,19,Delantero,10,foto.jpg
+28,Ousmane Dembélé,Francés,21,Delantero,11,foto.jpg
+28,Corentin Tolisso,Francés,23,Centrocampista,12,foto.jpg
+28,N'Golo Kanté,Francés,27,Centrocampista,13,foto.jpg
+28,Blaise Matuidi,Francés,31,Centrocampista,14,foto.jpg
+28,Steven N'Zonzi,Francés,29,Centrocampista,15,foto.jpg
+28,Steve Mandanda,Francés,33,Portero,16,foto.jpg
+28,Adil Rami,Francés,32,Defensa,17,foto.jpg
+28,Nabil Fekir,Francés,24,Delantero,18,foto.jpg
+28,Djibril Sidibé,Francés,25,Defensa,19,foto.jpg
+28,Florian Thauvin,Francés,25,Delantero,20,foto.jpg
+28,Lucas Hernández,Francés,22,Defensa,21,foto.jpg
+28,Benjamin Mendy,Francés,23,Defensa,22,foto.jpg
+28,Alphonse Areola,Francés,25,Portero,23,foto.jpg
+29,Jordan Pickford,Inglés,24,Portero,1,foto.jpg
+29,Kyle Walker,Inglés,28,Defensa,2,foto.jpg
+29,Danny Rose,Inglés,27,Defensa,3,foto.jpg
+29,Eric Dier,Inglés,24,Centrocampista,4,foto.jpg
+29,John Stones,Inglés,24,Defensa,5,foto.jpg
+29,Harry Maguire,Inglés,25,Defensa,6,foto.jpg
+29,Jesse Lingard,Inglés,25,Centrocampista,7,foto.jpg
+29,Jordan Henderson,Inglés,27,Centrocampista,8,foto.jpg
+29,Harry Kane,Inglés,24,Delantero,9,foto.jpg
+29,Raheem Sterling,Inglés,23,Delantero,10,foto.jpg
+29,Jamie Vardy,Inglés,31,Delantero,11,foto.jpg
+29,Kieran Trippier,Inglés,27,Defensa,12,foto.jpg
+29,Jack Butland,Inglés,25,Portero,13,foto.jpg
+29,Danny Welbeck,Inglés,27,Delantero,14,foto.jpg
+29,Gary Cahill,Inglés,32,Defensa,15,foto.jpg
+29,Phil Jones,Inglés,26,Defensa,16,foto.jpg
+29,Fabian Delph,Inglés,28,Defensa,17,foto.jpg
+29,Ashley Young,Inglés,32,Defensa,18,foto.jpg
+29,Marcus Rashford,Inglés,20,Delantero,19,foto.jpg
+29,Dele Alli,Inglés,22,Centrocampista,20,foto.jpg
+29,Ruben Loftus-Cheek,Inglés,22,Centrocampista,21,foto.jpg
+29,Trent Alexander-Arnold,Inglés,19,Defensa,22,foto.jpg
+29,Nick Pope,Inglés,26,Portero,23,foto.jpg
+30,Alireza Beiranvand,Iraní,25,Portero,1,foto.jpg
+30,Mehdi Torabi,Iraní,23,Centrocampista,2,foto.jpg
+30,Ehsan Hajsafi,Iraní,28,Defensa,3,foto.jpg
+30,Rouzbeh Cheshmi,Iraní,24,Defensa,4,foto.jpg
+30,Milad Mohammadi,Iraní,24,Defensa,5,foto.jpg
+30,Saeid Ezatolahi,Iraní,21,Centrocampista,6,foto.jpg
+30,Masoud Shojaei,Iraní,34,Centrocampista,7,foto.jpg
+30,Morteza Pouraliganji,Iraní,26,Defensa,8,foto.jpg
+30,Omid Ebrahimi,Iraní,30,Centrocampista,9,foto.jpg
+30,Karim Ansarifard,Iraní,28,Delantero,10,foto.jpg
+30,Vahid Amiri,Iraní,30,Centrocampista,11,foto.jpg
+30,Mohammad Rashid Mazaheri,Iraní,29,Portero,12,foto.jpg
+30,Mohammad Reza Khanzadeh,Iraní,27,Defensa,13,foto.jpg
+30,Saman Ghoddos,Iraní,24,Delantero,14,foto.jpg
+30,Pejman Montazeri,Iraní,34,Defensa,15,foto.jpg
+30,Reza Ghoochannejhad,Iraní,30,Delantero,16,foto.jpg
+30,Mehdi Taremi,Iraní,25,Delantero,17,foto.jpg
+30,Alireza Jahanbakhsh,Iraní,24,Delantero,18,foto.jpg
+30,Majid Hosseini,Iraní,21,Defensa,19,foto.jpg
+30,Sardar Azmoun,Iraní,23,Delantero,20,foto.jpg
+30,Ashkan Dejagah,Iraní,31,Delantero,21,foto.jpg
+30,Amir Abedzadeh,Iraní,25,Portero,22,foto.jpg
+30,Ramin Rezaeian,Iraní,28,Defensa,23,foto.jpg
+31,Hannes Halldórsson,Islandés,34,Portero,1,foto.jpg
+31,Birkir Sævarsson,Islandés,33,Defensa,2,foto.jpg
+31,Samúel Friðjónsson,Islandés,22,Centrocampista,3,foto.jpg
+31,Albert Guðmundsson,Islandés,20,Centrocampista,4,foto.jpg
+31,Sverrir Ingason,Islandés,24,Defensa,5,foto.jpg
+31,Ragnar Sigurðsson,Islandés,31,Defensa,6,foto.jpg
+31,Jóhann Berg Guðmundsson,Islandés,27,Centrocampista,7,foto.jpg
+31,Birkir Bjarnason,Islandés,30,Centrocampista,8,foto.jpg
+31,Björn Sigurðarson,Islandés,27,Delantero,9,foto.jpg
+31,Gylfi Sigurðsson,Islandés,28,Centrocampista,10,foto.jpg
+31,Alfreð Finnbogason,Islandés,29,Delantero,11,foto.jpg
+31,Frederik Schram,Islandés,23,Portero,12,foto.jpg
+31,Rúnar Rúnarsson,Islandés,23,Portero,13,foto.jpg
+31,Kári Árnason,Islandés,35,Defensa,14,foto.jpg
+31,Hólmar Eyjólfsson,Islandés,27,Defensa,15,foto.jpg
+31,Ólafur Skúlason,Islandés,35,Centrocampista,16,foto.jpg
+31,Aron Gunnarsson,Islandés,29,Centrocampista,17,foto.jpg
+31,Hörður Magnússon,Islandés,25,Defensa,18,foto.jpg
+31,Rúrik Gíslason,Islandés,30,Centrocampista,19,foto.jpg
+31,Emil Hallfreðsson,Islandés,33,Centrocampista,20,foto.jpg
+31,Arnór Traustason,Islandés,25,Centrocampista,21,foto.jpg
+31,Jón Daði Böðvarsson,Islandés,26,Delantero,22,foto.jpg
+31,Ari Freyr Skúlason,Islandés,31,Defensa,23,foto.jpg
+32,Eiji Kawashima,Japonpés,35,Portero,1,foto.jpg
+32,Naomichi Ueda,Japonpés,23,Defensa,2,foto.jpg
+32,Gen Shōji,Japonpés,25,Defensa,3,foto.jpg
+32,Keisuke Honda,Japonpés,32,Centrocampista,4,foto.jpg
+32,Yūto Nagatomo,Japonpés,31,Defensa,5,foto.jpg
+32,Wataru Endō,Japonpés,25,Defensa,6,foto.jpg
+32,Gaku Shibasaki,Japonpés,26,Centrocampista,7,foto.jpg
+32,Genki Haraguchi,Japonpés,27,Centrocampista,8,foto.jpg
+32,Shinji Okazaki,Japonpés,32,Delantero,9,foto.jpg
+32,Shinji Kagawa,Japonpés,29,Centrocampista,10,foto.jpg
+32,Takashi Usami,Japonpés,26,Centrocampista,11,foto.jpg
+32,Masaaki Higashiguchi,Japonpés,32,Portero,12,foto.jpg
+32,Yoshinori Mutō,Japonpés,25,Delantero,13,foto.jpg
+32,Takashi Inui,Japonpés,30,Centrocampista,14,foto.jpg
+32,Yūya Ōsako,Japonpés,28,Delantero,15,foto.jpg
+32,Hotaru Yamaguchi,Japonpés,27,Centrocampista,16,foto.jpg
+32,Makoto Hasebe,Japonpés,34,Centrocampista,17,foto.jpg
+32,Ryōta Ōshima,Japonpés,25,Centrocampista,18,foto.jpg
+32,Hiroki Sakai,Japonpés,28,Defensa,19,foto.jpg
+32,Tomoaki Makino,Japonpés,31,Defensa,20,foto.jpg
+32,Gōtoku Sakai,Japonpés,27,Defensa,21,foto.jpg
+32,Maya Yoshida,Japonpés,29,Defensa,22,foto.jpg
+32,Kōsuke Nakamura,Japonpés,23,Portero,23,foto.jpg
