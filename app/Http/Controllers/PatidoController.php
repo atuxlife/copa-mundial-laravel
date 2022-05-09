@@ -2,7 +2,6 @@
 
 namespace App\Http\Controllers;
 
-use Illuminate\Http\Request;
 use App\Models\Partido;
 use App\Models\Equipo;
 
@@ -40,11 +39,6 @@ class PatidoController extends Controller
         }
 
         $partidos = Partido::all();
-
-        foreach ($partidos as $partido) {
-            
-        }
-
         return $partidos;
     }
 
