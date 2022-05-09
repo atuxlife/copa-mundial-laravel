@@ -4,8 +4,6 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\Models\Partido;
-use App\Models\Gol;
-use App\Models\Tarjetas;
 use App\Models\Equipo;
 
 class PatidoController extends Controller
@@ -17,31 +15,37 @@ class PatidoController extends Controller
      */
     public function primeraRonda(){
         
-        $grupos = Equipo::select('grupo')->where('grupo', '=', 'A')->groupBy('grupo')->get();
-        $listaEquipos = [];
-        $equiposJugar = [];
+        $grupos = Equipo::select('grupo')->groupBy('grupo')->get();
+        $listaEquipos = [];;
+        $equiposGrupo = '';
+        $lenghtGrupo = 0;
         
-        foreach ($grupos as $vg) {
+        foreach ($grupos as $grupo) {
 
-            $equipos = Equipo::all()->where('grupo', '=', $vg->grupo);
+            $equipos = Equipo::all()->where('grupo', '=', $grupo->grupo);
 
             foreach ($equipos as $equipo) {
-                foreach ($equipos as $equipo2) {
-                    if( $equipo->id != $equipo2->id && $equipo->grupo == $equipo2->grupo ){
-                        array_push($listaEquipos, $this->versusGrupo([
-                            'equipoa'   => $equipo->id,
-                            'equipob'   => $equipo2->id
-                        ]));
-                        shuffle($listaEquipos);
+                if( $equipo->grupo == $grupo->grupo ){
+                    $equiposGrupo .= $equipo->id . ', ';
+                    $lenghtGrupo = count(explode(",", trim($equiposGrupo, ', ')));
+                    if( $lenghtGrupo == 4 ){
+                        $listaEquipos[$grupo->grupo] = trim($equiposGrupo, ', ');
+                        Partido::insert($this->versusGrupo(explode(', ', $listaEquipos[$grupo->grupo])));
+                        $equiposGrupo = '';
+                        $lenghtGrupo = 0;
                     }
                 }
             }
 
         }
 
-        //$equiposJugar = Partido::insert($listaEquipos);
-        
-        return $listaEquipos;
+        $partidos = Partido::all();
+
+        foreach ($partidos as $partido) {
+            
+        }
+
+        return $partidos;
     }
 
     /**
@@ -92,37 +96,52 @@ class PatidoController extends Controller
     // Método para armar los vs en un grupo
     private function versusGrupo(array $equipos){
 
-        $golesa        = $this->generarGoles();
-        $golesb        = $this->generarGoles();
-        $amarillasa    = $this->generarAmarillas();
-        $amarillasb    = $this->generarAmarillas();
-        $rojasa        = $this->generarRojas();
-        $rojasb        = $this->generarRojas();
+        $versus = [];
+        $partidos = [];
 
-        if( $golesa == $golesb ){
-            if( $amarillasa > $amarillasb && $rojasa > $rojasb ){
-                $ganador = $equipos['equipob'];    
-            } else {
-                $ganador = $equipos['equipoa'];
+        for ($i = 0; $i <= count($equipos)-2 ; $i++) {
+            for ($j = $i + 1; $j <= count($equipos)-1 ; $j++) {
+                array_push($versus, ['equipoa'=>$equipos[$i], 'equipob'=>$equipos[$j]]);
             }
-        } elseif( $golesa > $golesb ) {
-            $ganador = $equipos['equipoa'];
-        } else {
-            $ganador = $equipos['equipob'];
         }
 
-        return [
-            'equipoa_id'    => $equipos['equipoa'],
-            'equipob_id'    => $equipos['equipob'],
-            'ganador_id'    => $ganador,
-            'golesa'        => $golesa,
-            'golesb'        => $golesb,
-            'amarillasa'    => $amarillasa,
-            'amarillasb'    => $amarillasb,
-            'rojasa'        => $rojasa,
-            'rojasb'        => $rojasb,
-            'ronda'         => 'I'
-        ];
+        foreach( $versus as $value ){
+
+            $golesa        = $this->generarGoles();
+            $golesb        = $this->generarGoles();
+            $amarillasa    = $this->generarAmarillas();
+            $amarillasb    = $this->generarAmarillas();
+            $rojasa        = $this->generarRojas();
+            $rojasb        = $this->generarRojas();
+
+            if( $golesa == $golesb ){
+                if( $amarillasa > $amarillasb && $rojasa > $rojasb ){
+                    $ganador = $value['equipob'];    
+                } else {
+                    $ganador = $value['equipoa'];
+                }
+            } elseif( $golesa > $golesb ) {
+                $ganador = $value['equipoa'];
+            } else {
+                $ganador = $value['equipob'];
+            }
+
+            array_push($partidos, [
+                'equipoa_id'    => $value['equipoa'],
+                'equipob_id'    => $value['equipob'],
+                'ganador_id'    => $ganador,
+                'golesa'        => $golesa,
+                'golesb'        => $golesb,
+                'amarillasa'    => $amarillasa,
+                'amarillasb'    => $amarillasb,
+                'rojasa'        => $rojasa,
+                'rojasb'        => $rojasb,
+                'ronda'         => 'I'
+            ]);
+
+        }
+
+        return $partidos;
 
     }
 
